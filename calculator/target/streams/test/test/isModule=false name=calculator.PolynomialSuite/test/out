@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mPolynomialSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- should calculate an accurate delta for (1,1,1)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should calculate an accurate delta for (1,2,1)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should calculate an accurate delta for (1,3,1)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return a empty set when delta is negative[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return a single element set when delta is zero[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return a two element set when delta is greater then zero[0m[0m

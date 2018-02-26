@@ -1,0 +1,12 @@
+webUI/fastOptJS
+submit
+submit mateusduboli@gmail.com
+submit mateusduboli@gmail.com 7puFQ8KZKK
+webUI/fastOptJS
+sbt clean
+clean
+compile
+test
+submit mateusduboli@gmail.com 7puFQ8KZKK
+console
+submit mateusduboli@gmail.com 7puFQ8KZKK

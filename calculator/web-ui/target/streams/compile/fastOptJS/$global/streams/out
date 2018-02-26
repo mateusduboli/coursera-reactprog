@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mFast optimizing /Users/mateus/Workspace/coursera-reactprog/calculator/web-ui/target/scala-2.11/webui-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Read info: 281726 us[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 273570 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 1126840 us[0m
+[0m[[0mdebug[0m] [0mLinker: cache stats: reused: 0 -- invalidated: 3476 -- trees read: 502[0m
+[0m[[0mdebug[0m] [0mLinker: 1699289 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: true[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 232067 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 3835 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 896713 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 1149990 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 143933 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 19172 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 164903 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 0 -- invalidated: 384[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 2039[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 952899 us[0m
